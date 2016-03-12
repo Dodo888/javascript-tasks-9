@@ -1,4 +1,7 @@
 {
+    "name": "flow",
+    "version": "1.0.0",
+    "description": "Библиотека для работы с асинхронными функциями",
     "private": true,
     "dependencies": {
         "chai": "^3.3.0",
